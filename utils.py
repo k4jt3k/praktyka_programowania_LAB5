@@ -1,4 +1,6 @@
 """Podstawowe funkcje kalkualtora"""
+
+
 def add(a: int, b: int) -> int:
     """DOdawanie liczb"""
     return a + b
